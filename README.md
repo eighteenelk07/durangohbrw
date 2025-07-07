@@ -15,6 +15,7 @@ No copyrighted content is included.
 
 ```
 DurangoHBRW/
+├── dualboot            → dualboot analysis files
 ├── firmware            → Firmware analysis files
 ├── LICENSE             → MIT license file
 ├── README.md           → Project description
