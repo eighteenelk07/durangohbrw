@@ -15,10 +15,6 @@ No copyrighted content is included.
 
 ```
 DurangoHBRW/
-├── docs/               → Technical documentation and internal notes
-├── reverse/            → Reverse engineering outputs and function maps
-├── tools/              → Custom scripts, loggers, and analysis tools
-├── exploits/           → Proof-of-concept research (non-functional/simulated)
 ├── LICENSE             → MIT license file
 ├── README.md           → Project description
 └── .gitignore          → Git exclusion rules
