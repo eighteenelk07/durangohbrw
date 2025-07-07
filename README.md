@@ -15,6 +15,7 @@ No copyrighted content is included.
 
 ```
 DurangoHBRW/
+├── firmware            → Firmware analysis files
 ├── LICENSE             → MIT license file
 ├── README.md           → Project description
 └── .gitignore          → Git exclusion rules
