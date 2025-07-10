@@ -15,6 +15,7 @@ No copyrighted content is included.
 
 ```
 DurangoHBRW/
+├── fakeboxlive         → fakeboxlive analysis files
 ├── dualboot            → dualboot analysis files
 ├── firmware            → Firmware analysis files
 ├── LICENSE             → MIT license file
